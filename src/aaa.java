@@ -5,5 +5,8 @@ public class aaa {
 		// TODO Auto-generated method stub
 
 	}
+	public int cambio1Daniel(){
+		return 0;
+	}
 
 }
